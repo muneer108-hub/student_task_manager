@@ -1,0 +1,2 @@
+a="muneer"
+print(a)
